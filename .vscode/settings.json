@@ -1,3 +1,14 @@
 {
+<<<<<<< HEAD
   "cmake.sourceDirectory": "G:/flutter projects/Numerckal_Clors/numerckal_clors/linux"
+=======
+  "cmake.sourceDirectory": "G:/flutter projects/esay_english/linux",
+  "cSpell.words": [
+    "Carsscreen",
+    "esay",
+    "Familymember",
+    "Familymemberscreen",
+    "soundpath"
+  ]
+>>>>>>> 67f446b0d0d8b9d830968afc392c15598c6adc21
 }
